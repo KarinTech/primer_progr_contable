@@ -6,7 +6,7 @@ pasivos ={
 "fornecedor"
 
 }
-suma_pas=int(82000+18000+35000)
+suma_pas=int(mercadoria+18000+35000)
 
 activos = {
     "caixa":50000,
