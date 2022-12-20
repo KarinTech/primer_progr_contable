@@ -1,8 +1,9 @@
-
+mercadoria = input("Enter the amount of "Mercadoria" )
+                   print("Mercadoria =  ", mercadoria)
 pasivos ={
-"mercadoria" : 820000,
-"ICMS a Recuperar" : 18000,
-"fornecedor" :35000
+"mercadoria",
+"ICMS a Recuperar",
+"fornecedor"
 
 }
 suma_pas=int(82000+18000+35000)
